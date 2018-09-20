@@ -1,0 +1,5 @@
+ErrorDocument 500 /http_response_code.php
+ErrorDocument 500 /http_response_code.php
+ErrorDocument 500 /http_response_code.php
+ErrorDocument 404 /http_response_code.php
+ErrorDocument 401 /http_response_code.php
